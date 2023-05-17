@@ -16,3 +16,5 @@ Utilizo herramientas como:
 También tengo experiencia en los programas de **Microsoft Office** y un nivel básico de **inglés**. Actualmente, estoy ampliando mis conocimientos en **React JS** para desarrollar interfaces interactivas y escalables.
 
 No dudes en contactarme para colaborar o intercambiar ideas. Me encantaría conectar con profesionales y explorar nuevas oportunidades en el ámbito tecnológico.
+- [Linkedin](https://www.linkedin.com/in/lucila-riviezzi/)
+- [Behance](https://www.behance.net/lucilariviezzirivero)
