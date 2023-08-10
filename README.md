@@ -1,5 +1,5 @@
 ### ¡Hola, Mundo!
-Soy estudiante de **Desarrollo web front-end**, con conocimientos de **Diseño UX/UI**. Me encanta diseñar experiencias digitales intuitivas y atractivas, así como crear soluciones digitales. Me considero una persona proactiva, organizada y comprometida, siempre dispuesta a asumir nuevos desafíos y trabajar en equipo.
+Soy **desarrolladora web frontend** y estudiante de **programación backend**, con conocimientos de **Diseño UX/UI**. Me encanta diseñar experiencias digitales intuitivas y atractivas, así como crear soluciones digitales. Me considero una persona proactiva, organizada y comprometida, siempre dispuesta a asumir nuevos desafíos y trabajar en equipo.
 
 Utilizo herramientas como:
 - Adobe Illustrator
@@ -11,10 +11,14 @@ Utilizo herramientas como:
 - Bootstrap
 - Git
 - JavaScript
+- Firebase
 - React JS
+- Node.js
+- MongoDB
 
-También tengo experiencia en los programas de **Microsoft Office** y un nivel básico de **inglés**. Actualmente, estoy ampliando mis conocimientos en **React JS** para desarrollar interfaces interactivas y escalables.
+También tengo experiencia en los programas de **Microsoft Office** y un nivel básico de **inglés**. Actualmente, estoy ampliando mis habilidades en programación backend, enfocándome en **Node.js** y **MongoDB**.
 
 No dudes en contactarme para colaborar o intercambiar ideas. Me encantaría conectar con profesionales y explorar nuevas oportunidades en el ámbito tecnológico.
 - [Linkedin](https://www.linkedin.com/in/lucila-riviezzi/)
 - [Behance](https://www.behance.net/lucilariviezzirivero)
+- [CV. Lucila Riviezzi](https://drive.google.com/file/d/16Vk9OAZKVgavgUapYkrzf8S0yEzr8Gfc/view?usp=sharing)
