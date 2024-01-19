@@ -21,4 +21,4 @@ También tengo experiencia en los programas de **Microsoft Office** y un nivel b
 No dudes en contactarme para colaborar o intercambiar ideas. Me encantaría conectar con profesionales y explorar nuevas oportunidades en el ámbito tecnológico.
 - [Linkedin](https://www.linkedin.com/in/lucila-riviezzi/)
 - [Behance](https://www.behance.net/lucilariviezzirivero)
-- [CV. Lucila Riviezzi](https://drive.google.com/file/d/16Vk9OAZKVgavgUapYkrzf8S0yEzr8Gfc/view?usp=sharing)
+- [CV. Lucila Riviezzi](https://drive.google.com/file/d/1-0zGKGWJjXjrlfpSbZRZeDOZXZlCHsxv/view?usp=sharing)
