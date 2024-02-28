@@ -16,7 +16,7 @@ Utilizo herramientas como:
 - Node.js
 - MongoDB
 
-También tengo experiencia en los programas de **Microsoft Office** y un nivel básico de **inglés**. Actualmente, estoy ampliando mis habilidades en programación backend, enfocándome en **Node.js** y **MongoDB**.
+También tengo experiencia en los programas de **Microsoft Office** y un nivel básico de **inglés**.
 
 No dudes en contactarme para colaborar o intercambiar ideas. Me encantaría conectar con profesionales y explorar nuevas oportunidades en el ámbito tecnológico.
 - [Linkedin](https://www.linkedin.com/in/lucila-riviezzi/)
